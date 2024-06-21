@@ -1,8 +1,7 @@
-import java.util.List;
+ import java.util.List;
 
-public class Banco {
+ public class Banco {
     
-  
     protected String nome;
     protected String cpf;
 

@@ -3,6 +3,7 @@ public class Main {
         //exemplo cliete com nome joao
         Cliente joao = new Cliente();
         joao.setNome("Joao");
+        joao.setCpf("12345678910");
         
         Conta cc = new ContaCorrente(joao);
         //exemplo deposito 100
